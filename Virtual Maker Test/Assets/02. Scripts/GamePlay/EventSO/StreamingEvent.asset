@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5747a0dd45583d948b69def159fe7d31, type: 3}
+  m_Name: StreamingEvent
+  m_EditorClassIdentifier: Assembly-CSharp::StreamingEvent
+  eventName: 
+  description: 
+  triggerType: 0
+  onlyDuringStreaming: 0
+  minDay: 0
+  probability: 1
+  deltaStress: 0
+  deltaFatigue: 0
+  deltaHappiness: 0
+  deltaHealth: 0
+  deltaYouTubeSubs: 0
+  deltaInstagramFollowers: 0
+  deltaChannelSubs: 0
+  deltaAverageViewers: 0
+  deltaMorality: 0
+  deltaCharm: 0
+  deltaIntelligence: 11000
+  deltaMoney: 0
+  deltaFame: 0
+  deltaReputation: 0
+  deltaAgencyPower: 0
